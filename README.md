@@ -27,7 +27,7 @@ This idea began with a previous project where I used machine learning to forecas
 ---
 
 ## 📂 Folder Structure
-
+```
 Covid19Prediction/
 │
 ├── covid19App_pred.py # Main Streamlit app
@@ -35,3 +35,4 @@ Covid19Prediction/
 ├── data.csv # COVID-19 case dataset
 ├── forecast_india.csv # Output forecast (optional)
 └── README.md # This file
+```
