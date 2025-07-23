@@ -4,9 +4,7 @@
 
 An AI-powered web app that forecasts COVID-19 daily cases for India using **Facebook Prophet** time series model and an **interactive UI built with Streamlit**.
 
-## 🚀 Live Demo
 
-🔗 [Click here to try the app](#) *(insert your Streamlit Cloud / deployment link)*
 
 ---
 
